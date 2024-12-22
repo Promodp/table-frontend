@@ -1,5 +1,5 @@
-# Frontend Assignment
 
+# Frontend Assignment
 
 ## Assignment
 
@@ -48,3 +48,39 @@ Use the web API (link : https://raw.githubusercontent.com/saaslabsco/frontend-as
 
 1. Result on platforms like codesandbox, replit are not accepted. 
 1. Private unaccessible links will lead to rejection.
+
+
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+
+
+
+## Project includes
+
+1. UI for the table with the following three attributes for all the projects in the sorted order based on percentage funded:
+    * S.No.
+    * Percentage funded
+    * Amount pledged
+2. Custom hooks utilization
+    * usePagination
+    * useApiCall
+3. Basic testing
+4. Includes color palatted that can be accessed accross the project.
+    * Example:   --palette-neutral-50: #FBFCFE;  ---> which can be used as:  var(--palette-neutral-50: #FBFCFE);
+5. contant file to include the various constant
+6. Accessbility:
+   * Keyboard navigation
+   * basic mobile responsibility
+7. Component Modularization
+ 

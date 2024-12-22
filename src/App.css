@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+
+  /* Custom Color palette */
+
+  --palette-neutral-50: #FBFCFE;
+  --palette-neutral-100: #F0F4F8;
+  --palette-neutral-200: #DDE7EE;
+  --palette-neutral-300: #CDD7E1;
+  --palette-neutral-400: #ccc;
+  --palette-neutral-500: #636B74;
+  --palette-neutral-600: #8474740a;
+  --palette-neutral-700: #999;
+  --palette-neutral-800: #4a5568;
+  --palette-neutral-900: #0B0D0E;
+}
+
+
