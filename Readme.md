@@ -1,3 +1,5 @@
+### Deployed Url: https://table-frontend-two.vercel.app/
+
 
 # Frontend Assignment
 
